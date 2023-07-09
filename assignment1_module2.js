@@ -132,8 +132,8 @@ function sumArray(array) {
     return array.reduce((accumulator, currentValue) => accumulator + currentValue, 0);
 }
   
-const numbers2 = [1, 2, 3, 4, 5];
-sumArray(numbers2);
+const number = [1, 2, 3, 4, 5];
+sumArray(number);
 
 
 /* Exercise 11: 
